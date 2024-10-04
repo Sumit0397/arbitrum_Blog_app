@@ -21,7 +21,7 @@ const Forum = () => {
             	<header>
                 	<nav>
                     	<ConnectButton
-                        	label={account === undefined ? "Connect Wallet To Post" : ""}
+                        	label={account === undefined ? "Connect Wallet To Your Post" : ""}
                     	/>
                 	</nav>
             	</header>
